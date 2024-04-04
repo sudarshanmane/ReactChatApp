@@ -1,0 +1,12 @@
+.search-container input{
+    width: 99%;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-bottom:1px solid black;
+    background-color: rgb(70, 15, 70);
+}
+
+.search-container input::placeholder{
+    color:lightsteelblue
+}

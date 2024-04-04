@@ -1,0 +1,16 @@
+.input-chat-container{
+    display: flex;
+}
+
+.input-chat-container input{
+    height: 60px;
+    width: 100%;
+    background: white;
+    border: none;
+    border-top: 1px solid black;
+}
+
+
+
+
+

@@ -1,0 +1,19 @@
+.messageInfo, .messageContent{
+    display: flex;
+    gap: 4px;
+    text-align: center;
+    justify-content: end;
+    align-items: center;
+}
+
+.messageInfo span{
+    padding: 7px 20px;
+    border-radius:10px;
+    background: lightblue;
+}
+
+.messageContent span{
+    border-radius: 7px;
+    padding: 7px 10px;
+    margin-bottom: 10px;
+}
